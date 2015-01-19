@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Futures", "FSharp.Futures\FSharp.Futures.fsproj", "{D2AC9F31-360A-4F78-9403-243D514A63BA}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp.Futures.Example", "FSharp.Futures.Example\FSharp.Futures.Example.fsproj", "{D91DA63F-2D01-433B-ACED-846DA8B96BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AC9F31-360A-4F78-9403-243D514A63BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AC9F31-360A-4F78-9403-243D514A63BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AC9F31-360A-4F78-9403-243D514A63BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AC9F31-360A-4F78-9403-243D514A63BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91DA63F-2D01-433B-ACED-846DA8B96BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91DA63F-2D01-433B-ACED-846DA8B96BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91DA63F-2D01-433B-ACED-846DA8B96BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91DA63F-2D01-433B-ACED-846DA8B96BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
